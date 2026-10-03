@@ -1,0 +1,8 @@
+title: Cosmoe
+description: A modern, open-source, cross-platform framework inspired by BeOS/Haiku
+url: "https://cosmoe.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
